@@ -25,11 +25,14 @@ BOM List:
 
 ![BOM](https://github.com/WellsWang/RAMTESTER/assets/2504078/572f9074-d9ca-4313-97e4-11d2101b7e8c)
 
-## NOTICE
-You should chose the CORRECT model via SW1 switch before you put the chip into the ZIFF socket.
-Or, it will DAMAGE the chip for the wrong voltage settings!!!
-Or, it will DAMAGE the chip for the wrong voltage settings!!!
-Or, it will DAMAGE the chip for the wrong voltage settings!!!
+## !!!NOTICE!!!
+You should chose the **CORRECT** model via SW1 switch **BEFORE** you put the chip into the ZIFF socket.
+
+Or, it will **DAMAGE** the chip for the wrong voltage settings!!!
+
+Or, it will **DAMAGE** the chip for the wrong voltage settings!!!
+
+Or, it will **DAMAGE** the chip for the wrong voltage settings!!!
 
 ## Prototypes
 ![prototype1](https://github.com/WellsWang/RAMTESTER/assets/2504078/6ddb3170-f2c0-49b3-86c5-ab4bb919a6cb)
