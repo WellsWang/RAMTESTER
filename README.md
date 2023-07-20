@@ -19,7 +19,7 @@ You can use Arduino IDE to compile and upload the code to ATMEGA328p MCU.
 ## Hardware Design
 You may check the Schematic PNG file in repository for detail.
 
-![Schematic_RAMTesterPro](https://github.com/WellsWang/RAMTESTER/assets/2504078/87bf67ea-378b-4380-833e-6582d58e168f)
+![Schematic_RAMTesterPro](https://github.com/WellsWang/RAMTESTER/blob/a932d9d6e2ea0bb4c1ccbf2f7b9ee1a21b1c59dc/Schematic_RAMTesterPro.png)
 
 BOM List:
 
